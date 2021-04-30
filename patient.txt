@@ -1,0 +1,20 @@
+Physician Name			Specialisation			TreatmentID			Treatment			Day Time			Room Name			Room Status			Appointment Status			Patient			BookingID
+Kai			Physiotherapist			41			Massage			Tuesday, 4 May 2021, 12:00-13:00			Medical Consultancy A			Available			Booked			25			2000			
+Kai			Physiotherapist			40			Massage			Monday, 3 May 2021, 12:00-13:00			Medical Consultancy A			Available			Booked			25			2001			
+Kai			Physiotherapist			42			Massage			Wednesday, 5 May 2021, 12:00-13:00			Medical Consultancy A			Available			Booked			25			2002			
+Physician Name			Specialisation			TreatmentID			Treatment			Day Time			Room Name			Room Status			Appointment Status			Patient			BookingID
+Kai			Physiotherapist			40			Massage			Monday, 3 May 2021, 12:00-13:00			Medical Consultancy A			Available			Booked			25			2002			
+Kai			Physiotherapist			40			Massage			Monday, 3 May 2021, 12:00-13:00			Medical Consultancy A			Available			Booked			25			2002			
+Kai			Physiotherapist			40			Massage			Monday, 3 May 2021, 12:00-13:00			Medical Consultancy A			Available			Booked			25			2002			
+Kai			Physiotherapist			43			Massage			Thursday, 6 May 2021, 12:00-13:00			Medical Consultancy A			Available			Booked			26			2003			
+Kai			Physiotherapist			43			Massage			Thursday, 6 May 2021, 12:00-13:00			Medical Consultancy A			Available			Cancelled			0			2004			
+Kai			Physiotherapist			44			Massage			Friday, 7 May 2021, 12:00-13:00			Medical Consultancy A			Available			Booked			26			2004			
+Kai			Physiotherapist			44			Massage			Friday, 7 May 2021, 12:00-13:00			Medical Consultancy A			Available			Attended			26			2005			
+Kai			Physiotherapist			45			Neural Mobilisation			Monday, 3 May 2021, 10:00-11:00			Medical Consultancy C			Available			Booked			26			2005			
+Kai			Physiotherapist			45			Neural Mobilisation			Monday, 3 May 2021, 10:00-11:00			Medical Consultancy C			Available			Not Attended			26			2006			
+Kai			Physiotherapist			45			Neural Mobilisation			Monday, 3 May 2021, 10:00-11:00			Medical Consultancy C			Available			Empty			0			0			
+Kai			Physiotherapist			44			Massage			Friday, 7 May 2021, 12:00-13:00			Medical Consultancy A			Available			Attended			26			2005			
+Zong			Physiotherapist			30			Massage			Monday, 3 May 2021, 10:00-11:00			Medical Consultancy A			Available			Booked			26			2006			
+Zong			Physiotherapist			31			Massage			Monday, 3 May 2021, 10:00-11:00			Medical Consultancy A			Available			Empty			0			0			
+Physician Name			Specialisation			TreatmentID			Treatment			Day Time			Room Name			Room Status			Appointment Status			Patient			BookingID
+Yan			Osteopathy			55			Accupuncture			Monday, 3 May 2021, 12:00-13:00			Medical Consultancy C			Available			Booked			36			2007			
